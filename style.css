@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-img {
+/* border: 2px solid red; */
+text-align: center;
+height: 277px;
+
+}
+/* .form{
+
+  }   */
+.register-form{
+    margin: 0;
+   
+   
+    display: flex;
+   
+    align-items: center;
+    flex-direction: column;
+    
+    font-size: 30px;
+    height: 600px;
+}
+.registration-link{
+    text-decoration: underline;
+    color: purple;
+    font-weight: bold;
+    text-align: center;
+}
+.saylani-form{
+    text-align: center;
+    width: 70%;
+}
+.first-name{
+    /* color: blue; */
+    margin-right: 20vh;
+}
+.date-of{
+    /* border: 2px solid red; */
+    width: 68%;
+}
+.email{
+    /* border: 2px solid gray; */
+    width: 79%;
+}
+.MOBILE{
+    /* border: 2px solid red; */
+    width: 86%;
+}
+.main-form{
+/* background-color: aquamarine; */
+margin-left: 25vh;
+}
+.gender{
+    /* border: 2px solid red; */
+    margin-right: 34vh;
+}
+.address{
+    /* border: 2px solid rebeccapurple; */
+    margin-right: 28vh;
+}
+.header-img{
+    margin-top: 60px;
+}
+.city{
+    /* border: 2px solid rebeccapurple; */
+    margin-right: 24vh;
+}
+.pin{
+    /* border: 2px solid rebeccapurple; */
+    margin-right: 28vh;
+}
+.state{
+    /* border: 2px solid rebeccapurple; */
+    margin-right: 25vh;
+}
+.country{
+    margin-right: 29vh; 
+}
+.hobbies{
+    /* border: 2px solid rebeccapurple; */
+    margin-right: 14vh;
+}
+.other{
+    /* border: 2px solid forestgreen; */
+    margin-left: 55px;
+}
+.qualification{
+    display: flex;
+   justify-content: center;
+   margin-left: 25vh;
+    
+
+  
+}
+.course{
+    display: flex;
+    justify-content: space-around;
+    /* border: 2px solid red; */
+    margin-right: 40vh;
+    font-weight: lighter;
+    align-items: center;
+}
+.course h5{
+    margin-left: 20px;
+}
+select{
+    height: 20px;
+}
+.file{
+    display: flex;
+    justify-content: space-around;
+    /* border: 2px solid rebeccapurple; */
+    margin-right: 29vh;
+}
+.file p{
+    text-align: left;
+margin-left: 70px;
+}
+.button{
+   margin-left: 40vh;
+
+}
+.login{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    /* align-items: center; */
+    gap: 40PX;
+    /* border: 2px solid red; */
+    /* width: 70rem; */
+    /* text-align: center; */
+    /* margin-left: 40VH; */
+}
+.login input{
+    width: 180px;
+}
+
+.password{
+    margin-right: 30px;
+}
